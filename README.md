@@ -1,7 +1,8 @@
 # I Corsi della LUTE — Milazzo
 
 Galleria dei corsi della **LUTE – Libera Università della Terza Età di Milazzo**,
-anno accademico 2026-2027: **54 corsi in 9 aree**, ciascuno con la sua immagine e il docente.
+anno accademico 2026-2027: **60 schede in 9 aree**, ciascuna con la sua immagine e il docente.
+I sei cicli del Lutelisir di salute hanno una scheda ciascuno (800A-800F).
 
 👉 **[Apri la galleria](https://pxh2407.github.io/corsi-lute/)**
 
